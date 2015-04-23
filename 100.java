@@ -8,6 +8,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+
 public class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p==q) return true;
