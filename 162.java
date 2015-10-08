@@ -1,4 +1,4 @@
-//Find Peak Element Array 2.162
+//Find Peak Element 2.162
 public class Solution {
     public int findPeakElement(List<Integer> nums) {
         int size=nums.size();
