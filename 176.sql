@@ -1,2 +1,2 @@
-//176.Second Highest Salary
+#176.Second Highest Salary
 SELECT max(Salary) FROM Employee WHERE Salary < (SELECT max(Salary) FROM Employee)
